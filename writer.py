@@ -30,12 +30,12 @@ with open('write_here.txt', 'r') as textfile:
             elif(chcode >= 48 and chcode <= 57):
                 letter_type = "symbers"
                 ch = "{}".format(chcode)
-            elif(chcode == 32 or chcode == 36):
+            elif(chcode == 32 or chcode == 126):
                 html_default.append("<span></span>")
             else:
                 letter_type = "symbers"
                 ch = "{}".format(chcode)
-            if(chcode != 35 and chcode != 32 and chcode != 36):
+            if(chcode != 35 and chcode != 32 and chcode != 126):
                 html_default.append("<img src='images/letters/{}/{}/{}/{}.png'/>".format(
                     letter_set, colour, letter_type, ch))
         html_default.append('</div>')
