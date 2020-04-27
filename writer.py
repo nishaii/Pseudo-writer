@@ -35,7 +35,7 @@ with open('write_here.txt', 'r') as textfile:
             else:
                 letter_type = "symbers"
                 ch = "{}".format(chcode)
-            if(chcode != 35 and chcode != 32 and chcode != 126):
+            if(chcode != 96 and chcode != 32 and chcode != 126):
                 html_default.append("<img src='images/letters/{}/{}/{}/{}.png'/>".format(
                     letter_set, colour, letter_type, ch))
         html_default.append('</div>')
