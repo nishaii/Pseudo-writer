@@ -1,6 +1,6 @@
 import random
 
-colour = "blue"
+colour = ""
 letter_set = "set0"
 bool_color = False
 letter_type = ""
