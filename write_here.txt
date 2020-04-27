@@ -1,17 +1,3 @@
-`1] Why is indentation important in python?`
-A] In most other programming languages, indentation is used only to help make the code look pretty. But in Python, it is required for indicating what block of code a statement belongs to. For instance, the final print...Statements within the same block of code need to be indented at the same level.
-`2] What are the types of inheritance in python?`
-A] Types Of Inheritance. Single Inheritance. Multiple Inheritance. Multilevel Inheritance. Hierarchical Inheritance. Hybrid Inheritance.
-$  Python super() Function.
-$  Python Method Overriding.
-`3] What is a paragraph?`
-A] A paragraph is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.
-`4] What sound does a cat make?`
-A] All cats make sounds — from meows and purrs to growls and hisses — but some felines are more vocal than others.
-Kittens are typically more communicative than older cats, and domestic felines are usually more vocal than feral ones.
-There’s even evidence that some breeds are more likely to "talk" than others, including Siamese and Burmese cats. But what sounds a cat makes and how vocal it is varies from feline to feline.
-Cats communicate with meows, chirrups, hisses, purrs, chatters and growls, but the onomatopoeic meow is the most common.
-.
-.
-.
-1234
+`Whatever is written inside the (Grave accent) will be in black colour.` 
+Default is blue. 
+~   Whitespaces will always be ignored unless the line starts with a ~ (tilde).
